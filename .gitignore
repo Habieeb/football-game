@@ -1,0 +1,5 @@
+winning-agents/
+__pycache__/
+*.pyc
+.env
+.env.*
